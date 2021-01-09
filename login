@@ -32,3 +32,4 @@ if (isset($_SESSION["id"])) {
 	exit();
 }
 ?>
+<!doctype html>
